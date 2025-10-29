@@ -1,0 +1,7 @@
+{
+  "name": "Audio Transcriber Pro",
+  "description": "A powerful tool to transcribe audio in real-time from your microphone or from an uploaded audio file using the Gemini API. Get accurate, verbatim transcriptions instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
